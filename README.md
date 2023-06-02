@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ReactJS, ExpressJS and Prisma
+- 🌱 I’m currently learning NextJS, Fastify
+- ⚡ Fun fact: I dream of one day being able to work from anywhere in the world
 <!--
 **npham49/npham49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
