@@ -1,8 +1,15 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ReactJS, ExpressJS and Prisma
-- 🌱 I’m currently learning NextJS, Fastify
+- 🌱 I’m currently learning NextJS, Fastify, Flutter
 - ⚡ Fun fact: I dream of one day being able to work from anywhere in the world
+
+[![Dinh Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=npham49&theme=dracula&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npham49&layout=pie&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **npham49/npham49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
