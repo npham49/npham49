@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ReactJS, ExpressJS and Prisma
-- 🌱 I’m currently learning NextJS, Fastify, Flutter
-- ⚡ Fun fact: I dream of one day being able to work from anywhere in the world
+- 🔭 I’m currently working on NextJS, Bootstrap, ExpressJS
+- 🌱 I’m currently learning Flutter, Elysia, HTMX
+- 👯 I’m looking to collaborate on TypeScript-based projects
 
 [![Dinh Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=npham49&theme=dracula&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
