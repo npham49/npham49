@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on NextJS, Bootstrap, ExpressJS
-- 🌱 I’m currently learning Flutter, Elysia, HTMX
-- 👯 I’m looking to collaborate on TypeScript-based projects
+- 🔭 My number 1 goal for this year is to finish a PROJECT!!!!
 
 [![Dinh Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=npham49&theme=dracula&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
